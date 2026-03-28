@@ -5,5 +5,6 @@ public class Main{
     //Cuong hoc IT6
     public static void main(String[] thamso){
         System.out.println("Helo thong");
+        System.out.println("cuong gay");
     }
 }
