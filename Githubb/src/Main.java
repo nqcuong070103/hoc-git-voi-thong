@@ -1,7 +1,7 @@
 public class Main{
     //Cuong dep trai
-    //Cuong hoc it4
+    //thong is more handsome than cuong
     public static void main(String[] thamso){
-        System.out.println("Hello World");
+        System.out.println("Helo thong");
     }
 }
